@@ -92,7 +92,6 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
 ![4 1](https://github.com/Kowsalyasathya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118671457/fc874ffb-6422-42a9-ae82-669630c1215a)
 ### profit Prediction graph:
 ![4 2](https://github.com/Kowsalyasathya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118671457/d05d822a-8ffe-43ce-941d-e96aac549feb)
@@ -102,7 +101,7 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 ![4 4](https://github.com/Kowsalyasathya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118671457/9e6e6663-47ed-40e7-8786-04daae92909e)
 ### Profit prediction graph:
 ![4 5](https://github.com/Kowsalyasathya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118671457/56f3a476-7b0c-4b9c-a887-338b3191b406)
-### 
+### Profit for the population 35,000 and 70,000 :
 ![4 6](https://github.com/Kowsalyasathya/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118671457/7e757ea6-6a4b-458c-b12b-e68852823db8)
 
 
